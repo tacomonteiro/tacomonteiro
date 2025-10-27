@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - snake
+    - main
 
 jobs:
   generate:
